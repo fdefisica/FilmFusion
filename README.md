@@ -1,5 +1,13 @@
 # FILMFUSION
 
-FilmFusion es un sistema de recomendación de películas basado en inteligencia artificial que analiza datos de películas y las emociones que evocan para recomendar películas personalizadas según el estado de ánimo del usuario.
+FILMFUSION es un sistema de recomendación de películas basado en inteligencia artificial que analiza datos de películas y las emociones que evocan para recomendar películas personalizadas según el estado de ánimo del usuario.
 
 El principal objetivo de este proyecto, es aumentar la satisfacción del usuario con las recomendaciones de películas. La métrica clave sería la tasa de clics (CTR) en las recomendaciones y la retroalimentación del usuario sobre la precisión y relevancia de las películas sugeridas
+
+## TABLA DE CONTENIDO
+
+- [Caracteristicas]
+- [Herramientas Utilizadas]
+- [Arquitectura del Proyecto]
+- [Proceso]
+- [Funcionalidades]
