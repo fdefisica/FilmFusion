@@ -11,3 +11,29 @@ El principal objetivo de este proyecto, es aumentar la satisfacción del usuario
 - [Arquitectura del Proyecto]
 - [Proceso]
 - [Funcionalidades]
+
+## CARACTERISTICAS
+
+- Sistema de Recomendación Personalizado
+- Análisis de Emociones
+- Enfocado en el bienestar Emocional
+- Consideraciones éticas y de privacidad en el manejo de datos.
+- Uso de métricas de satisfacción del usuario (CTR, retroalimentación).
+- Innovación en la combinación de datos de películas y análisis emocional.
+- Identificación de desafíos en la precisión y privacidad de datos.
+
+## HERRAMIENTAS UTILIZADAS 
+
+- Pandas
+- Matplotlib.pyplot
+- Sklearn
+- Nltk
+
+MODELO ENTRENADO:
+- RandomForestClassifier()
+- DecisionTreeClassifier()
+- VotingClassifier
+
+  ## ARQUITECTURA DEL PROYECTO
+
+  
