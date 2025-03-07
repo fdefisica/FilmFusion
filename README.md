@@ -34,6 +34,8 @@ MODELO ENTRENADO:
 - DecisionTreeClassifier()
 - VotingClassifier
 
+  ## ARCHIVO DEL PROYECTO > file:///C:/Users/USUARIO/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/8DD99F719EDF43E07427CC78A3549648/Proyecto%20IA.rar
+
   ## ARQUITECTURA DEL PROYECTO
   
 INTERFAZ:
@@ -93,7 +95,6 @@ Recomendaciones de contenido relacionado:
 Sugerencias de bandas sonoras, documentales o contenido detrás de cámaras.
 Comunidad de usuarios:
 Foros o espacios para compartir opiniones y recomendaciones.
-
 
 
 
