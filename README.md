@@ -31,6 +31,7 @@ El principal objetivo de este proyecto, es aumentar la satisfacción del usuario
 
 MODELO ENTRENADO:
 - DecisionTreeClassifier()
+  
 Optimizacion del Modelo:
 -  GridSearchCV
 
