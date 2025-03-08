@@ -35,6 +35,9 @@ MODELO ENTRENADO:
   
 Optimizacion del Modelo:
 -  GridSearchCV
+  
+Para Ejecutar la Interfaz:
+- Xampp
 
   ## ARQUITECTURA DEL PROYECTO
   
