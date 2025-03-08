@@ -48,13 +48,9 @@ GRÁFICAS:
 ## PROCESO
 
 1. ![image](https://github.com/user-attachments/assets/d5ec8179-278c-4b98-a711-1e7675bd41a2)
-
 2. ![image](https://github.com/user-attachments/assets/0a8f820c-edbc-4fe8-8319-963eef9993ff)
-
 3. ![image](https://github.com/user-attachments/assets/066e7c14-2e26-44bd-85f9-f7be8f10d7b3)
-
 4. ![image](https://github.com/user-attachments/assets/02fd58bf-0a20-4351-8800-4bf4e74c3f62)
-
 5. ![image](https://github.com/user-attachments/assets/c8533352-c650-4555-81ec-bf511c09b7b7)
 
 
