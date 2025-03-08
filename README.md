@@ -30,9 +30,9 @@ El principal objetivo de este proyecto, es aumentar la satisfacción del usuario
 - Nltk
 
 MODELO ENTRENADO:
-- RandomForestClassifier()
 - DecisionTreeClassifier()
-- VotingClassifier
+Optimizacion del Modelo:
+-  GridSearchCV
 
   ## ARQUITECTURA DEL PROYECTO
   
@@ -47,11 +47,16 @@ GRÁFICAS:
 
 ## PROCESO
 
-1. ![Imagen de WhatsApp 2025-03-06 a las 14 52 22_2b389772](https://github.com/user-attachments/assets/91110359-21ee-4e07-9b36-0182894f6e91)
-2. ![Imagen de WhatsApp 2025-03-06 a las 14 52 48_5f573276](https://github.com/user-attachments/assets/d92b94be-4f5e-4dd6-8db5-1e7142473b64)
-3. ![Imagen de WhatsApp 2025-03-06 a las 14 53 18_50c50b74](https://github.com/user-attachments/assets/0f24ecad-edfb-40c2-bb00-5b21625f6146)
-4. ![Imagen de WhatsApp 2025-03-06 a las 14 53 54_bad919b1](https://github.com/user-attachments/assets/69eea4f0-596d-4963-8090-955c11899e1e)
-5. ![Imagen de WhatsApp 2025-03-06 a las 14 54 27_6e7bd8cf](https://github.com/user-attachments/assets/c00876b4-b1f7-4455-8c61-8b368410904b)
+1. ![image](https://github.com/user-attachments/assets/d5ec8179-278c-4b98-a711-1e7675bd41a2)
+
+2. ![image](https://github.com/user-attachments/assets/0a8f820c-edbc-4fe8-8319-963eef9993ff)
+
+3. ![image](https://github.com/user-attachments/assets/066e7c14-2e26-44bd-85f9-f7be8f10d7b3)
+
+4. ![image](https://github.com/user-attachments/assets/02fd58bf-0a20-4351-8800-4bf4e74c3f62)
+
+5. ![image](https://github.com/user-attachments/assets/c8533352-c650-4555-81ec-bf511c09b7b7)
+
 
 ## FUNCIONALIDADES
 
